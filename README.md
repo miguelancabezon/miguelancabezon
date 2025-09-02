@@ -1,8 +1,8 @@
 
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/149488058?s=400&u=66c025a344ab9722f9b6e6a36058434787032ea4&v=4" alt="My photo!" style="border-radius: 50%;">
-</div>
+<!--<div align="center">
+<img src="https://github.com/user-attachments/assets/5dbf43e2-06aa-424c-9173-30e6442dfbc9?fit=cover" alt="A secret!" style="border-radius: 50%;">
+</div>-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Howdy+!+🤠;+I'm+Miguel+Angel!;" />
