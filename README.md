@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <a href="miguelangel.cabezon@uneatlantico.es">
+  <a href="mailto:miguelangel.cabezon@uneatlantico.es">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
